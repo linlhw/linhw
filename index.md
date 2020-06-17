@@ -14,9 +14,8 @@ Under the supervision of [Prof. Rongrong Ji](https://mac.xmu.edu.cn/rrji/) and [
 
 ## Research Interests 
 
-- Computer Vision
-
-- Neural Network Compression and Acceleration.
+- Data Mining
+- Economic
 
 ## Education
 
