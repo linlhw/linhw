@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-<img  class="profile-picture" src="raw2.jpg" alt="Linhw"   />
+<img  class="profile-picture" src="raw2.jpg" alt="Linhw"  width="100" align="right"   />
 
 I am currently a first-year graduate student in the Department of Statistics, School of Economics, Xiamen University, China.
 
