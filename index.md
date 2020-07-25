@@ -8,20 +8,20 @@ layout: default
 
 <img class="profile-picture" src="raw.jpg">
 
-I am currently a fourth-year undergraduate student in the [MAC Lab](http://mac.xmu.edu.cn/), School of Informatics, Xiamen University, China.
+I am currently a first-year graduate student in the Department of Statistics, School of Economics, Xiamen University, China.
 
-Under the supervision of [Prof. Rongrong Ji](https://mac.xmu.edu.cn/rrji/) and [Associate Prof. Liujuan Cao](https://information.xmu.edu.cn/info/1019/3182.htm)
+Under the supervision of [Prof. Fang kuangnan](http://www.kuangnanfang.com)
 
 ## Research Interests 
 
-- Data Mining
-- Economic
+- Data Mining & Deep Learning
+- NLP & Financial Big Data
 
 ## Education
 
-- **[2016.09-2020.06]** Bachelor of Computer Science, School of Infomatics, Xiamen University, China
+- **[2016.09-2020.06]** Bachelor of Economic Statistics, School of Economics, Xiamen University, China
 
-- **[2020.09-2023.06]** Master of Computer Science, School of Infomatics, Xiamen University, China
+- **[2020.09-2023.06]** Master of Applied Statistics, School of Economics, Xiamen University, China
 
 
 ## Contact
