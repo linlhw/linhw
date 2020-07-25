@@ -18,10 +18,12 @@ Under the supervision of [Prof. Fang kuangnan](http://www.kuangnanfang.com)
 - NLP & Financial Big Data
 
 ## Education
+- **[2020.09-2023.06]** Master of Applied Statistics, School of Economics, Xiamen University, China
+
+- **[2019.09-2020.01]** Exchange Programme, Department of Computer Science, National Tsinghua University
 
 - **[2016.09-2020.06]** Bachelor of Economic Statistics, School of Economics, Xiamen University, China
 
-- **[2020.09-2023.06]** Master of Applied Statistics, School of Economics, Xiamen University, China
 
 
 ## Contact
