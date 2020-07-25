@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="raw.jpg">
+<img class="profile-picture" src="raw2.jpg" alt="图片替换文本" width="100" align="right" />
 
 I am currently a first-year graduate student in the Department of Statistics, School of Economics, Xiamen University, China.
 
@@ -31,4 +31,4 @@ Under the supervision of [Prof. Fang kuangnan](http://www.kuangnanfang.com)
 - **E-mail**:  linhw [at] stu.xmu.edu.cn or linhongwei.xmu [at] qq.com 
 
 ---
-<a href="https://info.flagcounter.com/Gj6T"><img src="https://s11.flagcounter.com/count2/Gj6T/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/Gj6T"><img src="https://s11.flagcounter.com/count2/Gj6T/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0" align="right" ></a>
